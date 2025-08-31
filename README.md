@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm [Dev!](https://github.com/MAWOW1000)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%C4%91%E1%BB%A9c-ph%E1%BA%A1m-do%C3%A3n-3193a629b/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/duc-pham-doan-3193a629b/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/dpham_ev/)
 
 ### Glad to see you here! 
@@ -20,7 +20,7 @@ Joined Github **3** years ago.
 
 - 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://www.linkedin.com/in/%C4%91%E1%BB%A9c-ph%E1%BA%A1m-do%C3%A3n-3193a629b/)! I am happy to help.
+- 💬 &nbsp; Ask me anything [here](https://www.linkedin.com/in/duc-pham-doan-3193a629b/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 🕵️ &nbsp; Practice DSA and my profile: [here](https://leetcode.com/u/MAWOW1000/)!
 - 📫 &nbsp; Reach me out: duc22092003@gmail.com
