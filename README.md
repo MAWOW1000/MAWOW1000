@@ -5,7 +5,7 @@
 
 ### Glad to see you here! 
 
-I am a Full Stack Developer at Kozocom - Vietnam with a mission to revolutionize how the world hires with AI. 🚀
+I am a Back-end Developer at Kozocom - Vietnam with a mission to revolutionize how the world hires with AI. 🚀
 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in PHP, Laravel, Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend and building scalable products from scratch with the commitment to making a positive impact through technology.
 
